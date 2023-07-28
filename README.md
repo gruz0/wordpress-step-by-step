@@ -6,6 +6,7 @@ Check out this mind map for the step-by-step guide!
 
 This repository is made for the [#buildinpublic](https://twitter.com/hashtag/buildinpublic) community by [@itmistakes_com](https://twitter.com/itmistakes_com).
 
+![MindMap](./wordpress-step-by-step.png)
 
 ## Prepare
 
