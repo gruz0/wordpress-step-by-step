@@ -11,8 +11,9 @@ This repository is made for the [#buildinpublic](https://twitter.com/hashtag/bui
 ## Prepare
 
 - [ ] Register email for a project (GMail, etc.)
+  - [ ] [Read our blog post](https://futuage.com/posts/how-to-activate-application-passwords-for-your-google-account/)
   - [ ] Configure 2FA
-  - [ ] [Configure application passwords](https://support.google.com/mail/answer/185833?hl=en)
+  - [ ] Configure application passwords
   - [ ] Generate application password for sending email from WordPress
 - [ ] Register domain (GoDaddy, etc.)
 - [ ] Register hosting or VPS (BlueHost, SiteGround, etc.)
