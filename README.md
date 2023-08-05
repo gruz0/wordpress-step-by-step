@@ -33,7 +33,7 @@ This repository is made for the [#buildinpublic](https://twitter.com/hashtag/bui
 
 - [ ] [Google Webmaster](https://developers.google.com/) (Console) using your project's email
 - [ ] [Google Analytics](https://marketingplatform.google.com/about/analytics/) using your project's email
-- [ ] [UptimeRobot](https://uptimerobot.com/) (monitoring)
+- [ ] [UptimeRobot](https://futuage.com/posts/uptimerobot-setup-guide/) (monitoring)
 - [ ] [Canva](https://canva.com/)
 
 ## Configure WordPress
